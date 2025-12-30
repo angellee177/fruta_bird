@@ -1,7 +1,6 @@
 # Fruta Bird Game
 
-![FrutaBird.gif](https://github.com/angellee177/fruta_bird/blob/main/docs/img/FrutaBird.gif = 240x400)
-## Description
+<img src="docs/img/FrutaBird.gif" width="240" height="400" alt="Fruta Bird Gameplay">## Description
 
  In Fruta Bird, players take flight as the Serindit Melayu, the vibrant mascot of Riau. This 2D arcade experience brings my hometown of Tanjungpinang to life, challenging players to soar past local landmarks like the Tugu Gonggong located at Pelabuhan Sri Bintan Pura.
 
