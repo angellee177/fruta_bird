@@ -26,9 +26,13 @@ Before you start, ensure you have the following installed:
 > This project uses **Git LFS** to store large binary files. If you clone without Git LFS installed, your build files will be corrupted. Install it via `brew install git-lfs` (Mac) or `sudo apt install git-lfs` (Linux) and run `git lfs install` before cloning.
 
 ### 1. Clone the Repository
-
+you need to clone this repository first, copy paste this command below to your terminal:
 ```zsh
-git clone [https://github.com/angellee177/fruta_bird.git](https://github.com/angellee177/fruta_bird.git)
+git clone https://github.com/angellee177/fruta_bird.git
+```
+
+Then goto the folder.
+```zsh
 cd fruta_bird
 ```
 
