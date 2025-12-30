@@ -1,0 +1,4 @@
+repository "Fruta Bird/Fruta Bird@18968353833315@cloud"
+  path "/"
+    br "/main"
+    co "/main"
